@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng Spesial",
+    "price": 35000,
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400&h=400&fit=crop",
+    "badge": "Terlaris"
+  },
+  {
+    "id": 2,
+    "name": "Ayam Bakar Madu",
+    "price": 45000,
+    "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=400&h=400&fit=crop",
+    "badge": "Baru"
+  },
+  {
+    "id": 3,
+    "name": "Soto Ayam Lamongan",
+    "price": 28000,
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=400&h=400&fit=crop",
+    "badge": null
+  },
+  {
+    "id": 4,
+    "name": "Rendang Daging Sapi",
+    "price": 55000,
+    "image": "https://images.unsplash.com/photo-1574484284002-952d92456975?w=400&h=400&fit=crop",
+    "badge": "Favorit"
+  },
+  {
+    "id": 5,
+    "name": "Mie Goreng Seafood",
+    "price": 38000,
+    "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=400&h=400&fit=crop",
+    "badge": null
+  },
+  {
+    "id": 6,
+    "name": "Gado-Gado Jakarta",
+    "price": 25000,
+    "image": "https://images.unsplash.com/photo-1555126634-323283e090fa?w=400&h=400&fit=crop",
+    "badge": "Baru"
+  },
+  {
+    "id": 7,
+    "name": "Sate Ayam Madura",
+    "price": 32000,
+    "image": "https://images.unsplash.com/photo-1529563021893-cc83c992d75d?w=400&h=400&fit=crop",
+    "badge": "Terlaris"
+  },
+  {
+    "id": 8,
+    "name": "Es Teh Tarik",
+    "price": 12000,
+    "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=400&h=400&fit=crop",
+    "badge": null
+  }
+]
