@@ -37,6 +37,11 @@ export default function Sidebar() {
                             <BsPeople className="mr-4 text-xl"/>
                             Products</Link>
 	                  </li>
+                      <li>
+	                    <Link id="menu-5" to="/notes" className="hover:text-hijau flex cursor-pointer items-center rounded-xl p-4 font-medium text-gray-600 hover:bg-green-200 hover:font-extrabold">
+                            <BsPeople className="mr-4 text-xl"/>
+                            Notes</Link>
+	                  </li>
                 </ul>
             </div>
 

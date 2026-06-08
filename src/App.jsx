@@ -10,6 +10,7 @@ import DashboardP5 from "./pertemuan-5/pages/Dashboard";
 import Products from "./pages/Products";
 import ProductDetail from "./pages/ProductDetail";
 import "./assets/tailwind.css";
+import Notes from "./pages/Notes";
 
 function App() {
   const location = useLocation();
@@ -50,6 +51,8 @@ function App() {
                 <Route path="/customers" element={<Customers />} />
                 <Route path="/product" element={<Products />} />
                 <Route path="/products/:id" element={<ProductDetail />} />
+                <Route path="/notes" element={<Notes />} />
+                
               </Routes>
             </main>
           </div>
