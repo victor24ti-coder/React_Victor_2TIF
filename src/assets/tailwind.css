@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+@plugin "daisyui" {
+    themes: synthwave --default, dark --prefersdark;
+}
+
 @font-face {
     font-family: 'Barlow';
     src: url('/fonts/Barlow-Regular.ttf');
